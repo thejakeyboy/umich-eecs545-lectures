@@ -72,6 +72,7 @@ Recommended:
 - **Murphy §4.2:**  Gaussian Discriminant Analysis
 
 Optional:
+- **CS 229:** Notes on [Generative Models](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
 - **Paper:**  Zhang, H., 2004. ["The optimality of naive Bayes"](http://www.cs.unb.ca/profs/hzhang/publications/FLAIRS04ZhangH.pdf). AA, 1(2), p.3.
 - **Paper:**  Domingos, P. and Pazzani, M., 1997. ["On the optimality of the simple Bayesian classifier under zero-one loss"](http://link.springer.com/article/10.1023/A:1007413511361). Machine learning, 29(2-3), pp.103-130.
 
