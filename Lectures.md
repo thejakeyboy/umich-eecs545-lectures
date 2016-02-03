@@ -1,5 +1,8 @@
 # List of lectures for EECS 545 W16
 
+
+
+
 ## Lecture 03
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb)
@@ -26,6 +29,8 @@
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb)
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb)
+
+
 
 ## Lecture 08
 
