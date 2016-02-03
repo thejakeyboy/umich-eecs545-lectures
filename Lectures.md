@@ -1,8 +1,5 @@
 # List of lectures for EECS 545 W16
 
-
-
-
 ## Lecture 03
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb)
@@ -15,8 +12,8 @@
 
 ## Lecture 05
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2-Copy1.ipynb)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2-Copy1.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb)
 
 ## Lecture 06
 
@@ -30,12 +27,8 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb)
 
-
-
 ## Lecture 08
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_saket_kernel-methods-part1.ipynb)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_saket_kernel-methods-part1.ipynb)
-
-
 
