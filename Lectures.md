@@ -8,6 +8,7 @@
 ## Lecture 04
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.ipynb)
 
 ## Lecture 05
