@@ -3,6 +3,7 @@
 ## Lecture 03
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb)
 
 ## Lecture 04
@@ -14,6 +15,7 @@
 ## Lecture 05
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb)
 
 ## Lecture 06
