@@ -2,6 +2,10 @@
 
 This repository contains the lecture materials for EECS 545, a graduate course in Machine Learning, at the University of Michigan, Ann Arbor. 
 
+## [Formatted Lecture Materials](./Lectures.md)
+
+The link above gives a list of all of the available lecture materials, including links to ipython notebooks (via [Jupyter's nbviewer](http://nbviewer.jupyter.org/)), the slideshow view, and PDFs.
+
 ## Lecture Readings
 
 We will make references to the following textbooks throughout the course.  The only required textbook is Bishop, *PRML*, but the others are very well-written and offer unique perspectives.
