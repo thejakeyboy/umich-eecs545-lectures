@@ -25,7 +25,7 @@ No required reading.
 - Juan Klopper has a [nice online review](http://www.juanklopper.com/opencourseware/mathematics-2/ipython-lecture-notes/), based on Jupyter notebooks.
 
 #### Lecture 03:  Convex Functions & Probability
-*Wednesday, January 13, 2016* 
+*Wednesday, January 13, 2016* &ensp; ([Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb), [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.pdf), [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture03_convex-functions-optimization/lecture03_Convex-Functions-and-Optimization.ipynb))
 
 Required:
 - **Bishop, §1.2:** Probability Theory
@@ -35,7 +35,7 @@ Optional:
 - **Murphy, Chapter 2:**  Probability
 
 #### Lecture 04:  Linear Regression, Part I
-*Wednesday, January 20, 2016* 
+*Wednesday, January 20, 2016* &ensp; ([Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.ipynb), [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.pdf), [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture04_linear-regression-part1/lecture04_final_linear-regression-part-1.ipynb))
 
 Required:
 - **Bishop, §1.1:**  Polynomial Curve Fitting Example
@@ -45,7 +45,7 @@ Optional:
 - **Murphy, Chapter 7:**  Linear Regression
 
 #### Lecture 05:  Linear Regression, Part II
-*Monday, January 25, 2016* 
+*Monday, January 25, 2016* &ensp; ([Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb), [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.pdf), [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb))
 
 Required:
 - **Bishop, §3.2:**  The Bias-Variance Decomposition
@@ -55,7 +55,7 @@ Optional:
 - **Murphy, Chapter 7:**  Linear Regression
 
 #### Lecture 06:  Probabilistic Models & Logistic Regression
-*Wednesday, January 27, 2016* 
+*Wednesday, January 27, 2016* &ensp; ([Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.ipynb), [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.pdf), [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.ipynb))
 
 Required:
 - **Bishop, §4.2:**  Probabilistic Generative Models
@@ -65,7 +65,7 @@ Optional:
 - **Murphy, Chapter 8:**  Logistic Regression
 
 #### Lecture 07:  Linear Classifiers
-*Monday, February 1, 2016* 
+*Monday, February 1, 2016* &ensp; ([Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb), [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.pdf), [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb))
 
 Required:
 - **Bishop, §4.1:**  Discriminant Functions
