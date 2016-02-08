@@ -32,6 +32,7 @@
 
 #### Lecture 08: kernel-methods-part1
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_saket_kernel-methods-part1.ipynb)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_saket_kernel-methods-part1.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
 
