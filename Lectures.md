@@ -36,3 +36,8 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
 
+#### Lecture 09: svm
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_svm/lecture09_final_kernels-svm.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_svm/lecture09_final_kernels-svm.ipynb)
+
