@@ -92,7 +92,7 @@ Optional:
 - **Murphy, §14.2:**  Kernel Functions
 
 #### Lecture 09:  Kernel Methods II
-*Monday, February 8, 2016* 
+*Wednesday, February 10, 2016* 
 
 Required:
 - **Bishop, §6.1:**  Dual Representation
