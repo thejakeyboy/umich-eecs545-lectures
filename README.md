@@ -90,3 +90,15 @@ Required:
 
 Optional:
 - **Murphy, §14.2:**  Kernel Functions
+
+#### Lecture 09:  Kernel Methods II
+*Monday, February 8, 2016* 
+
+Required:
+- **Bishop, §6.1:**  Dual Representation
+- **Bishop, §6.3:**  Radial Basis Function Networks
+- **Bishop, §7.1:**  Maximum Margin Classifiers
+
+Optional:
+- CS229:  [Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+- Eric Kim, [Everything You Wanted to Know about the Kernel Trick (But were too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
