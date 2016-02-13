@@ -115,6 +115,9 @@ Recommended:
 - **Murphy, §7.6.1-7.6.2:**  Bayesian Linear Regression
 - **Murphy, §4.3:**  Inference in Joinly Gaussian Distributions
 
+Further Reading:
+- **Rasmussen & Williams**, Gaussian Processes for Machine Learning.  (available [free online](http://www.gaussianprocess.org/gpml/))
+
 #### Lecture 11:  Machine Learning Advice
 *Wednesday, February 17, 2016*
 
