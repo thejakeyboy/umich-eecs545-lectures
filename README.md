@@ -80,7 +80,7 @@ Optional:
 - **Paper:**  Zhang, H., 2004. ["The optimality of naive Bayes"](http://www.cs.unb.ca/profs/hzhang/publications/FLAIRS04ZhangH.pdf). AA, 1(2), p.3.
 - **Paper:**  Domingos, P. and Pazzani, M., 1997. ["On the optimality of the simple Bayesian classifier under zero-one loss"](http://link.springer.com/article/10.1023/A:1007413511361). Machine learning, 29(2-3), pp.103-130.
 
-#### Lecture 08:  Kernel Methods I
+#### Lecture 08:  Kernel Methods I,  Kernels
 *Monday, February 8, 2016* 
 
 Required:
@@ -91,7 +91,7 @@ Required:
 Optional:
 - **Murphy, §14.2:**  Kernel Functions
 
-#### Lecture 09:  Kernel Methods II
+#### Lecture 09:  Kernel Methods II, Support Vector Machines
 *Wednesday, February 10, 2016* 
 
 Required:
@@ -102,3 +102,20 @@ Required:
 Optional:
 - CS229:  [Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
 - Eric Kim, [Everything You Wanted to Know about the Kernel Trick (But were too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
+
+#### Lecture 10:  Kernel Methods III, Bayesian Linear Regression & Gaussian Processes
+*Monday, February 10, 2016* 
+
+Required:
+- **Bishop, §2.3.0-2.3.1:**  Gaussian Distributions
+- **Bishop, §3.3:**  Bayesian Linear Regression
+- **Bishop, §6.4:**  Gaussian Processes
+
+Recommended:
+- **Murphy, §7.6.1-7.6.2:**  Bayesian Linear Regression
+- **Murphy, §4.3:**  Inference in Joinly Gaussian Distributions
+
+#### Lecture 11:  Machine Learning Advice
+*Wednesday, February 17, 2016*
+
+No required reading.
