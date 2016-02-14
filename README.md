@@ -104,7 +104,7 @@ Optional:
 - Eric Kim, [Everything You Wanted to Know about the Kernel Trick (But were too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
 
 #### Lecture 10:  Kernel Methods III, Bayesian Linear Regression & Gaussian Processes
-*Monday, February 10, 2016* 
+*Monday, February 13, 2016* 
 
 Required:
 - **Bishop, §2.3.0-2.3.1:**  Gaussian Distributions
