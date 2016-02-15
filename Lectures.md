@@ -42,3 +42,13 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture09_svm/lecture09_final_kernels-svm.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_svm/lecture09_final_kernels-svm.ipynb)
 
+#### Lecture 10: bayesian_lr_and_gaussian_processes
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
+
+#### Lecture 11: ml_advice
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_ml_advice/lecture11_ml_advice.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_ml_advice/lecture11_ml_advice.ipynb)
+
