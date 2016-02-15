@@ -45,6 +45,7 @@
 #### Lecture 10: bayesian_lr_and_gaussian_processes
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
 
 #### Lecture 11: ml_advice
