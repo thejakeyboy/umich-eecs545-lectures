@@ -91,23 +91,30 @@ Required:
 Optional:
 - **Murphy, §14.2:**  Kernel Functions
 
-#### Lecture 09:  Kernel Methods II, Support Vector Machines
+#### Lecture 09:  Kernel Methods II, Duality & Kernel Regression
 *Wednesday, February 10, 2016* 
 
 Required:
 - **Bishop, §6.1:**  Dual Representation
 - **Bishop, §6.3:**  Radial Basis Function Networks
-- **Bishop, §7.1:**  Maximum Margin Classifiers
 
 Optional:
-- CS229:  [Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
 - Eric Kim, [Everything You Wanted to Know about the Kernel Trick (But were too Afraid to Ask)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick.html)
 
-#### Lecture 10:  Kernel Methods III, Bayesian Linear Regression & Gaussian Processes
+#### Lecture 10:  Kernel Methods III, Support Vector Machines & Gaussians
 *Monday, February 15, 2016* 
 
 Required:
+- **Bishop, §7.1:**  Maximum Margin Classifiers
 - **Bishop, §2.3.0-2.3.1:**  Gaussian Distributions
+
+Optional:
+- CS229:  [Support Vector Machines](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+
+#### Lecture 11:  Kernel Methods III, Bayesian Linear Regression & Gaussian Processes
+*Wednesday, February 17, 2016* 
+
+Required:
 - **Bishop, §3.3:**  Bayesian Linear Regression
 - **Bishop, §6.4:**  Gaussian Processes
 
@@ -118,7 +125,7 @@ Recommended:
 Further Reading:
 - **Rasmussen & Williams**, Gaussian Processes for Machine Learning.  (available [free online](http://www.gaussianprocess.org/gpml/))
 
-#### Lecture 11:  Machine Learning Advice
-*Wednesday, February 17, 2016*
+#### Lecture 12:  Machine Learning Advice
+*Monday, February 22, 2016*
 
 No required reading.
