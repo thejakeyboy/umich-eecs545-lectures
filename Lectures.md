@@ -36,17 +36,11 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
 
-#### Lecture 09: svm
+#### Lecture 09: duality-kernel-regression
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_svm/lecture09_final_kernels-svm.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture09_svm/lecture09_final_kernels-svm.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_svm/lecture09_final_kernels-svm.ipynb)
-
-#### Lecture 10: bayesian_lr_and_gaussian_processes
-
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes/lecture10_final_bayesian-lr-gp.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.ipynb)
 
 #### Lecture 10: bayesian_lr_and_gaussian_processes_round_2
 
@@ -54,8 +48,20 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_bayesian_lr_and_gaussian_processes_round_2/lecture10_final_bayesian-lr-gp_round2.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes_round_2/lecture10_final_bayesian-lr-gp_round2.ipynb)
 
-#### Lecture 11: ml_advice
+#### Lecture 10: svm-gaussians
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_ml_advice/lecture11_ml_advice.ipynb)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_ml_advice/lecture11_ml_advice.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.ipynb)
+
+#### Lecture 11: bayesian-lr-gaussian-processes
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.ipynb)
+
+#### Lecture 12: ml_advice
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
 
