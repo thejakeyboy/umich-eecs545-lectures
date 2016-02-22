@@ -42,12 +42,6 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.ipynb)
 
-#### Lecture 10: bayesian_lr_and_gaussian_processes_round_2
-
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes_round_2/lecture10_final_bayesian-lr-gp_round2.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_bayesian_lr_and_gaussian_processes_round_2/lecture10_final_bayesian-lr-gp_round2.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_bayesian_lr_and_gaussian_processes_round_2/lecture10_final_bayesian-lr-gp_round2.ipynb)
-
 #### Lecture 10: svm-gaussians
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.ipynb)
