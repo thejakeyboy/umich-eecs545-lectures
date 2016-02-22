@@ -57,5 +57,6 @@
 #### Lecture 12: ml_advice
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture12_ml_advice/lecture12_ml_advice.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
 
