@@ -60,3 +60,14 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture12_ml_advice/lecture12_ml_advice.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
 
+#### Lecture 13: info_theory_and_exponential_family
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.ipynb)
+
+#### Lecture 14: bayesian_networks
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_bayesian_networks.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_bayesian_networks.ipynb)
+
