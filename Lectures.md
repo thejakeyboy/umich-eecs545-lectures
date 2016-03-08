@@ -68,6 +68,6 @@
 
 #### Lecture 14: bayesian_networks
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_bayesian_networks.ipynb)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_bayesian_networks.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
 
