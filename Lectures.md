@@ -60,15 +60,21 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture12_ml_advice/lecture12_ml_advice.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
 
-#### Lecture 13: info_theory_and_exponential_family
+#### Lecture 13: bias-variance-and-info-theory
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_info_theory_and_exponential_family/lecture13_final_info-theory-exp-family.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.ipynb)
 
 #### Lecture 14: bayesian_networks
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
+
+#### Lecture 15: clustering_mixture_models_em
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture15_clustering_mixture_models_em/lecture15_final_latent-variables-independence-clustering.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture15_clustering_mixture_models_em/lecture15_final_latent-variables-independence-clustering.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture15_clustering_mixture_models_em/lecture15_final_latent-variables-independence-clustering.ipynb)
 
