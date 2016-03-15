@@ -1,6 +1,7 @@
 .DS_Store
 .Rhistory
 __pycache__/*
+*__pycache__/*
 .py[cod]
 *~
 */.ipynb_checkpoints/*
