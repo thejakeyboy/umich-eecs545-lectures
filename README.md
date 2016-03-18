@@ -156,3 +156,30 @@ Required:
 Recommended:
 - **Murphy, §10.1:**  Directed Graphical Models
 - **Murphy, §10.2:**  Examples of Directed Graphical Models
+
+#### Lecture 15:  Latent Variables, d-Separation, and K-Means
+*Monday, March 14, 2016* 
+
+Required:
+- **Bishop, §8.2:**  Conditional Independence
+- **Bishop, §9.1:**  K-Means Clustering
+
+Recommended:
+- **Murphy, §10.5:**  Conditional Independence Properties
+- **Murphy, §11.1:**  Latent Variable Models
+
+#### Lecture 14:  Clustering & Expectation Maximization
+*Wednesday, March 16, 2016* 
+
+Required:
+- Lecture Notes, "Expectation Maximization" (see Lecture 16 folder)
+- **Bishop, §9.2:**  Mixtures of Gaussians
+- **Bishop, §9.3:**  An Alternative View of EM
+- **Bishop, §9.4:**  The EM Algorithm in General
+
+Recommended:
+- **Murphy, §10.3:**  Inference in Bayesian Networks
+- **Murphy, §10.4:**  Learning in Bayesian Networks
+- **Murphy, §11.2:**  Mixture Models
+- **Murphy, §11.3:**  Parameter Estimation for Mixture Models
+- **Murphy, §11.4:**  The Expectation Maximization Algorithm
