@@ -84,3 +84,9 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture16_clustering-mixtures-em/lecture16_final_clustering-mixtures-em.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture16_clustering-mixtures-em/lecture16_final_clustering-mixtures-em.ipynb)
 
+#### Lecture 17: gmm-hmm
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture17_gmm-hmm/lecture17_gmm-hmm.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
+
