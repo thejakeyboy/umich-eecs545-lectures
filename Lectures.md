@@ -60,3 +60,33 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture12_ml_advice/lecture12_ml_advice.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture12_ml_advice/lecture12_ml_advice.ipynb)
 
+#### Lecture 13: bias-variance-and-info-theory
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture13_bias-variance-and-info-theory/lecture13_final_bias-variance-and-info-theory.ipynb)
+
+#### Lecture 14: bayesian_networks
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture14_bayesian_networks/lecture14_final_exp-family-bayes-nets.ipynb)
+
+#### Lecture 15: latent-variables-independence-clustering
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture15_latent-variables-independence-clustering/lecture15_final_latent-variables-independence-clustering.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture15_latent-variables-independence-clustering/lecture15_final_latent-variables-independence-clustering.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture15_latent-variables-independence-clustering/lecture15_final_latent-variables-independence-clustering.ipynb)
+
+#### Lecture 16: clustering-mixtures-em
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture16_clustering-mixtures-em/lecture16_final_clustering-mixtures-em.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture16_clustering-mixtures-em/lecture16_final_clustering-mixtures-em.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture16_clustering-mixtures-em/lecture16_final_clustering-mixtures-em.ipynb)
+
+#### Lecture 17: gmm-hmm
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture17_gmm-hmm/lecture17_gmm-hmm.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
+

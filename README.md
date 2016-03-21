@@ -129,3 +129,57 @@ Further Reading:
 *Monday, February 22, 2016*
 
 No required reading.
+
+#### Lecture 13:  Information Theory & Exponential Families
+*Monday, March 7, 2016* 
+
+Required:
+- **Bishop, §1.6:**  Information Theory
+- **Bishop, §2.4:**  The Exponential Family
+
+Recommended:
+- **Murphy, §2.8:**  Information Theory  
+- **Murphy, §9.2:**  Exponential Families
+
+Further Reading:
+- **David Blei,**, [*Notes on Exponential Families*](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/exponential-families.pdf).  2011.
+
+
+#### Lecture 14:  Probabilistic Graphical Models
+*Wednesday, March 9, 2016* 
+
+Required:
+- **Bishop, §8.1:**  Bayesian Networks
+- **Bishop, §8.2:**  Conditional Independence
+- **Bishop, §8.3:**  Markov Random Fields
+
+Recommended:
+- **Murphy, §10.1:**  Directed Graphical Models
+- **Murphy, §10.2:**  Examples of Directed Graphical Models
+
+#### Lecture 15:  Latent Variables, d-Separation, and K-Means
+*Monday, March 14, 2016* 
+
+Required:
+- **Bishop, §8.2:**  Conditional Independence
+- **Bishop, §9.1:**  K-Means Clustering
+
+Recommended:
+- **Murphy, §10.5:**  Conditional Independence Properties
+- **Murphy, §11.1:**  Latent Variable Models
+
+#### Lecture 14:  Clustering & Expectation Maximization
+*Wednesday, March 16, 2016* 
+
+Required:
+- Lecture Notes, "Expectation Maximization" (see Lecture 16 folder)
+- **Bishop, §9.2:**  Mixtures of Gaussians
+- **Bishop, §9.3:**  An Alternative View of EM
+- **Bishop, §9.4:**  The EM Algorithm in General
+
+Recommended:
+- **Murphy, §10.3:**  Inference in Bayesian Networks
+- **Murphy, §10.4:**  Learning in Bayesian Networks
+- **Murphy, §11.2:**  Mixture Models
+- **Murphy, §11.3:**  Parameter Estimation for Mixture Models
+- **Murphy, §11.4:**  The Expectation Maximization Algorithm
