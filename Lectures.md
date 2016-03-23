@@ -90,3 +90,9 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture17_gmm-hmm/lecture17_gmm-hmm.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
 
+#### Lecture 18: pgm-inference-applications
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.ipynb)
+
