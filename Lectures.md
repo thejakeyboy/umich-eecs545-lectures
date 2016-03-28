@@ -99,6 +99,7 @@
 #### Lecture 19: pca_ica
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
 
 #### Lecture 20: mds_nldr
