@@ -96,6 +96,11 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.ipynb)
 
+#### Lecture 19: pca_ica
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
+
 #### Lecture 20: mds_nldr
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_mds_nldr.ipynb)
