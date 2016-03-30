@@ -104,6 +104,7 @@
 
 #### Lecture 20: mds_nldr
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_mds_nldr.ipynb)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_mds_nldr.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_final_mds-nldr.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture20_mds_nldr/lecture20_final_mds-nldr.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_final_mds-nldr.ipynb)
 
