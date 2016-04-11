@@ -90,3 +90,33 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture17_gmm-hmm/lecture17_gmm-hmm.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture17_gmm-hmm/lecture17_gmm-hmm.ipynb)
 
+#### Lecture 18: pgm-inference-applications
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture18_pgm-inference-applications/lecture18_final_pgm-inference-applications.ipynb)
+
+#### Lecture 19: pca_ica
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture19_pca_ica/lecture19_final_unsupervised-pca-ica.ipynb)
+
+#### Lecture 20: mds_nldr
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_final_mds-nldr.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture20_mds_nldr/lecture20_final_mds-nldr.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture20_mds_nldr/lecture20_final_mds-nldr.ipynb)
+
+#### Lecture 22: neural-networks-part1
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture22_neural-networks-part1/lecture22_neural_networks_part1.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture22_neural-networks-part1/lecture22_neural_networks_part1.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture22_neural-networks-part1/lecture22_neural_networks_part1.ipynb)
+
+#### Lecture 23: neural-networks-part2
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture23_neural-networks-part2/lecture23_neural_networks_part2.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture23_neural-networks-part2/lecture23_neural_networks_part2.pdf)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture23_neural-networks-part2/lecture23_neural_networks_part2.ipynb)
+

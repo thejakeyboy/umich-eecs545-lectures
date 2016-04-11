@@ -168,7 +168,7 @@ Recommended:
 - **Murphy, §10.5:**  Conditional Independence Properties
 - **Murphy, §11.1:**  Latent Variable Models
 
-#### Lecture 14:  Clustering & Expectation Maximization
+#### Lecture 16:  Clustering & Expectation Maximization
 *Wednesday, March 16, 2016* 
 
 Required:
@@ -183,3 +183,45 @@ Recommended:
 - **Murphy, §11.2:**  Mixture Models
 - **Murphy, §11.3:**  Parameter Estimation for Mixture Models
 - **Murphy, §11.4:**  The Expectation Maximization Algorithm
+
+#### Lecture 17:  Markov & Hidden Markov Models
+*Monday, March 21, 2016* 
+
+Required:
+- **Bishop, §13.1:**  Markov Models
+- **Bishop, §13.2:**  Hidden Markov Models
+
+Recommended:
+- **Murphy, §17.2:**  Markov Models
+- **Murphy, §17.3:**  Hidden Markov Models
+- **Murphy, §17.4:**  Inference in HMMs
+- **Murphy, §17.5:**  Learning for HMMS
+
+#### Lecture 18:  Inference & Applications of Graphical Models
+*Monday, March 23, 2016* 
+
+Required:
+- **Bishop, §10.1:**  Variational Inference
+- **Bishop, §11.2:**  Markov Chain Monte Carlo
+
+Recommended:
+- **Murphy, §19.1-4:**  Markov Random Fields
+- **Murphy, §21.2:**  Variational Inference
+- **Murphy, §21.3:**  The Mean Field Method
+- **Murphy, §23.1-4:**  Monte Carlo Inference
+- **Murphy, §24.1-3:**  Markov Chain Monte Carlo
+- **Murphy, §27.3:**  Latent Dirichlet Allocation
+
+#### Lecture 19:  Principal Components Analysis & ICA
+*Monday, March 28, 2016* 
+
+Required:
+- **Bishop, §12.1:**  Principal Components Analysis
+- **Bishop, §12.2:**  Probabilistic PCA
+- **Bishop, §12.3:**  Kernel PCA
+- **Bishop, §12.4:**  Nonlinear Latent Variable Models
+
+Recommended:
+- **Murphy, §12.2:**  Principal Components Analysis
+- **Murphy, §12.4:**  PCA for Categorical Data
+- **Murphy, §12.6:**  Independent Component Analysis
