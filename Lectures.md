@@ -120,3 +120,8 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture23_neural-networks-part2/lecture23_neural_networks_part2.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture23_neural-networks-part2/lecture23_neural_networks_part2.ipynb)
 
+#### Lecture 24: decision_trees_bagging_boosting
+
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture24_decision_trees_bagging_boosting/lecture24_decision_trees_bagging_boosting.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture24_decision_trees_bagging_boosting/lecture24_decision_trees_bagging_boosting.ipynb)
+
