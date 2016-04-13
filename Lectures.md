@@ -123,5 +123,6 @@
 #### Lecture 24: decision_trees_bagging_boosting
 
 * [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture24_decision_trees_bagging_boosting/lecture24_decision_trees_bagging_boosting.ipynb)
+* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture24_decision_trees_bagging_boosting/lecture24_decision_trees_bagging_boosting.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture24_decision_trees_bagging_boosting/lecture24_decision_trees_bagging_boosting.ipynb)
 
