@@ -1,15 +1,37 @@
-from __future__ import division;
-import numpy as np;
+from __future__ import division
+# plotting
 from matplotlib import pyplot as plt;
-from matplotlib import colors
 import matplotlib as mpl;
 from mpl_toolkits.mplot3d import Axes3D
+if "bmh" in plt.style.available: plt.style.use("bmh");
+# matplotlib objects
 from matplotlib import mlab;
 from matplotlib import gridspec;
+# scientific
+import numpy as np;
+import scipy as scp;
+import scipy.stats;
+# table display
 import pandas as pd
 from IPython.display import display
+# scikit-learn
 import sklearn;
 from sklearn.kernel_ridge import KernelRidge;
+# python
+import random;
+# warnings
+import warnings
+warnings.filterwarnings("ignore")
+# rise config
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {
+              'theme': 'simple',
+              'start_slideshow_at': 'selected',
+              'transition':'fade',
+              'scroll': False
+});
+
 
 def plot_mvn(sigmax, sigmay, mux, muy, corr):
     # dimensions

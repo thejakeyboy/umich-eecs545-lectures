@@ -1,11 +1,41 @@
-from __future__ import division;
-import numpy as np;
+# plotting
 from matplotlib import pyplot as plt;
 from matplotlib import colors
 import matplotlib as mpl;
 from mpl_toolkits.mplot3d import Axes3D
+if "bmh" in plt.style.available: plt.style.use("bmh");
+
+# matplotlib objects
 from matplotlib import mlab;
 from matplotlib import gridspec;
+
+# scientific
+import numpy as np;
+import scipy as scp;
+from scipy import linalg
+import scipy.stats;
+
+# table display
+import pandas as pd
+from IPython.display import display
+
+# python
+import random;
+
+# warnings
+import warnings
+warnings.filterwarnings("ignore")
+
+
+# rise config
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {
+              'theme': 'simple',
+              'start_slideshow_at': 'selected',
+              'transition':'fade',
+              'scroll': False
+});
 
 def lin_reg_classifier(means, covs, n, outliers):
     """

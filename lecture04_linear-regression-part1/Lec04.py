@@ -11,6 +11,14 @@ from IPython.display import display
 import sklearn;
 from sklearn.kernel_ridge import KernelRidge;
 
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {
+              'theme': 'simple',
+              'transition': 'none',
+              'start_slideshow_at': 'selected',
+});
+
 def regression_example_draw(degree1, degree2, degree3, ifprint):
     x = np.linspace(0, 2*np.pi, 13);
     # np.random.randn generates gaussian samples

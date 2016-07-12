@@ -1,15 +1,23 @@
-from __future__ import division;
-import numpy as np;
+from __future__ import division
+# plotting
 from matplotlib import pyplot as plt;
-from matplotlib import colors
-import matplotlib as mpl;
-from mpl_toolkits.mplot3d import Axes3D
-from matplotlib import mlab;
-from matplotlib import gridspec;
+if "bmh" in plt.style.available: plt.style.use("bmh");
+# scientific
+import numpy as np;
 import pandas as pd
-from IPython.display import display
-import sklearn;
-from sklearn.kernel_ridge import KernelRidge;
+import scipy as scp;
+import scipy.stats;
+# Nice Plot of Pandas DataFrame
+from IPython.display import display, HTML
+# rise config
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {
+              'theme': 'simple',
+              'start_slideshow_at': 'selected',
+})
+import warnings
+warnings.simplefilter("ignore")
 
 def regression_overfitting_degree(degree0, degree1, degree2, degree3):
     degreelist = np.array([degree0, degree1, degree2, degree3]);

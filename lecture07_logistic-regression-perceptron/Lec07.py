@@ -9,6 +9,38 @@ from matplotlib import gridspec;
 import pandas as pd
 from IPython.display import display
 
+if "bmh" in plt.style.available: plt.style.use("bmh");
+
+import scipy as scp;
+
+from scipy import linalg
+
+import scipy.stats;
+
+# scikit-learn
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+
+# python
+import random;
+
+# warnings
+import warnings
+warnings.filterwarnings("ignore")
+
+# rise config
+from notebook.services.config import ConfigManager
+cm = ConfigManager()
+cm.update('livereveal', {
+              'theme': 'simple',
+              'start_slideshow_at': 'selected',
+              'transition':'fade',
+              'scroll': False
+
+});
+
+
+
 def plot_linear_boundary():
     # random data + normal
     x = np.random.randn(2,50);
