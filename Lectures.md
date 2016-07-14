@@ -18,41 +18,25 @@
 * [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.pdf)
 * [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture05_linear-regression-part2/lecture05_final_linear-regression-part-2.ipynb)
 
-#### Lecture 06: generative-models-gda
+#### Lecture 06: bayesian-lr-gaussian-processes
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_generative-models-gda/lecture06_final_probability-models-logistic-regression.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_bayesian-lr-gaussian-processes/lecture06_final_bayesian-lr-gp.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture06_bayesian-lr-gaussian-processes/lecture06_final_bayesian-lr-gp.ipynb)
 
-#### Lecture 07: nb-lda-perceptron
+#### Lecture 07: logistic-regression-perceptron
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_nb-lda-perceptron/lecture07_final_nb-gda-lda.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_logistic-regression-perceptron/lecture07_logistic-regression-perceptron.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture07_logistic-regression-perceptron/lecture07_logistic-regression-perceptron.ipynb)
 
-#### Lecture 08: kernel-methods-part1
+#### Lecture 08: NaiveBayes-GDA-LDA
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_kernel-methods-part1/lecture08_final_kernel-methods-part1.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_NaiveBayes-GDA-LDA/lecture08_NaiveBayes-GDA-LDA.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture08_NaiveBayes-GDA-LDA/lecture08_NaiveBayes-GDA-LDA.ipynb)
 
-#### Lecture 09: duality-kernel-regression
+#### Lecture 09: kernel-methods
 
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_duality-kernel-regression/lecture09_final_kernels-svm.ipynb)
-
-#### Lecture 10: svm-gaussians
-
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture10_svm-gaussians/lecture10_final_bayesian-lr-gp.ipynb)
-
-#### Lecture 11: bayesian-lr-gaussian-processes
-
-* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.ipynb)
-* [PDF File](https://github.com/thejakeyboy/umich-eecs545-lectures/raw/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.pdf)
-* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture11_bayesian-lr-gaussian-processes/lecture11_final_bayesian-lr-gp.ipynb)
+* [Notebook Viewer](http://nbviewer.jupyter.org/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_kernel-methods/lecture09_kernel-methods.ipynb)
+* [Slide Viewer](http://nbviewer.jupyter.org/format/slides/github/thejakeyboy/umich-eecs545-lectures/blob/master/lecture09_kernel-methods/lecture09_kernel-methods.ipynb)
 
 #### Lecture 12: ml_advice
 
