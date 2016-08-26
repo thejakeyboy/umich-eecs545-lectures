@@ -1,0 +1,22 @@
+\begin{table}[h]
+			\renewcommand{\arraystretch}{1.3}
+			\centering
+			\begin{tabular}{|c|c|c|}
+				\hline
+								& \textbf{Primal}	& \textbf{Dual}	 		\\ \hline
+				\textbf{Original Problem}		& \multicolumn{2}{c|}{ $\begin{aligned}     \underset{\vx}{\text{minimize}} \quad & f(\vx)\\
+				\text{subject to} \quad & g_i(\vx) \leq 0, \quad i = 1, \dots, m\\
+				\quad & h_j(\vx) = 0, \quad j = 1, \dots, n \end{aligned}$ }	\\ \hline								
+				\textbf{Lagrangian}		& \multicolumn{2}{c|}{$L(\vx, \alpha, \beta) = f(\vx) + \sum \nolimits_{i = 1}^m \alpha_i g_i(\vx) + \sum \nolimits_{j = 1}^n \beta_j h_j(\vx)$}				\\ \hline				
+				\textbf{Objective}		&$L_P(\mathbf{x}) \triangleq \max \limits_{\alpha, \beta: \alpha_i \geq 0} L(\mathbf{x}, \alpha, \beta)$	& $L_D (\alpha, \beta) \triangleq \min \limits_{\mathbf{x}} L(\mathbf{x}, \alpha, \beta)$      	\\ \hline
+				\textbf{Problem}			&$ \min \limits_{\vx} \ L_P(\vx)$	& $\max \limits_{\alpha, \beta: \alpha_i \geq 0} L_D (\alpha, \beta)$       	\\ \hline
+				\textbf{Solution}		& $\vx^*$	& $\alpha^*, \beta^*$		\\
+				\hline
+				\textbf{Optimal Value}	& $p^*$		& $d^*$		\\
+				\hline
+				\textbf{Weak Duality}	& \multicolumn{2}{c|}{$p^* \geq d^*$}		\\
+				\hline
+				\textbf{Strong Duality}	& \multicolumn{2}{c|}{$p^* = d^*$}		\\
+				\hline	
+			\end{tabular}
+		\end{table}
