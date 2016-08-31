@@ -80,4 +80,3 @@ def plot_mvn(sigmax, sigmay, mux, muy, corr):
 
     # layout & title
     plt.tight_layout();
-

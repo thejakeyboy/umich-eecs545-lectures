@@ -121,3 +121,5 @@ def plot_svc():
 
     fig = plt.figure(figsize=(11,4))
     max_margin_classifier(fig, X, Y)
+
+    plt.x

@@ -110,21 +110,7 @@ def plot_optimization(ax, fn, d1, lst, xlim=None, ylim=None, title="", tangents=
     
     return ax;
 
-def newton_exact(d1, d2, x0, eps=1e-10, maxn=1e2, lst=None):
-    """
-    Runs Newton's method using exact analytic derivatives.
-    @param (d1: R --> R) Analytic first derivative.
-    @param (d2: R --> R) Analytic second derivative 
-    """
-    for n in range(int(maxn)):
-        if lst is not None: lst.append(x0);
-        x1 = x0-d1(x0)/d2(x0);
-        if abs(x1-x0) < eps: return x0; 
-        x0 = x1;
-    print("Newton's Method did not converge.");
-    return x0;
-
-def newton_exact_ver2(fn, d1, x0, eps=1e-10, maxn=1e2, lst=None):
+def newton_exact(fn, d1, x0, eps=1e-10, maxn=1e2, lst=None):
     """
     Runs Newton's method using exact analytic derivatives.
     @param (fn: R --> R) Analytic f(x).
@@ -139,7 +125,7 @@ def newton_exact_ver2(fn, d1, x0, eps=1e-10, maxn=1e2, lst=None):
 
 def newton_example(fn, d1):
     lst = [];
-    lst = newton_exact_ver2(fn, d1, 6.5, lst=[], maxn=10)
+    lst = newton_exact(fn, d1, 6.5, lst=[], maxn=10)
     lst_strarr = np.array([["%.3f" % x for x in lst]])
     df = pd.DataFrame(
         lst_strarr, index = ["Iteration Process"],
